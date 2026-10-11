@@ -1,0 +1,16 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Multivan"
+
+generations:
+  - name: "T5"
+    start_year: 2003
+    end_year: 2015
+    description: "The passenger Multivan on the T5 Transporter, with TDI diesels and the 3.2 L VR6."
+  - name: "T6 and T6.1"
+    start_year: 2015
+    end_year: 2021
+    description: "On the T6 Transporter with 2.0 TDI and TSI engines."
+  - name: "T7"
+    start_year: 2021
+    end_year: null
+    description: "On the MQB platform, with TSI, TDI and eHybrid plug-in powertrains."
