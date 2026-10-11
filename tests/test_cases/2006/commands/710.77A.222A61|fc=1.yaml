@@ -1,0 +1,8 @@
+command_id: 710.77A.222A61|fc=1
+test_cases:
+- expected_values:
+    MULTIVAN_SSB_TOTAL_CHARGE: 8630.7
+    MULTIVAN_SSB_TOTAL_DISCHARGE: 7348.2
+  response: |-
+    77A100B622A61000151
+    77A212300011F0AAAAA
